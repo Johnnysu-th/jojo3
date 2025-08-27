@@ -91,3 +91,7 @@ img {
 .nav-bar a:hover {
   background-color: #3e4450;  
 }
+
+.star{
+  width:60px;
+}
